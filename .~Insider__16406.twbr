@@ -822,13 +822,13 @@
       </datasource-dependencies>
       <zones>
         <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
-          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='88245' id='23' param='horz' w='98750' x='625' y='10715'>
-            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='88245' id='21' param='vert' w='98750' x='625' y='10715'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='88245' id='18' param='horz' w='98750' x='625' y='10715'>
-                <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='88245' id='16' w='98750' x='625' y='10715'>
-                  <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='88245' id='9' param='horz' w='98750' x='625' y='10715'>
-                    <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='88245' id='7' w='98750' x='625' y='10715'>
-                      <zone h='8886' id='3' name='Total Buy Value' show-title='false' w='49321' x='625' y='10715'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='87949' id='23' param='horz' w='98504' x='748' y='10846'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='87949' id='21' param='vert' w='98504' x='748' y='10846'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='87949' id='18' param='horz' w='98504' x='748' y='10846'>
+                <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='87949' id='16' w='98504' x='748' y='10846'>
+                  <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='87949' id='9' param='horz' w='98504' x='748' y='10846'>
+                    <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='87949' id='7' w='98504' x='748' y='10846'>
+                      <zone h='8855' id='3' name='Total Buy Value' show-title='false' w='49198' x='748' y='10846'>
                         <zone-style>
                           <format attr='border-color' value='#000000' />
                           <format attr='border-style' value='none' />
@@ -836,7 +836,7 @@
                           <format attr='margin' value='4' />
                         </zone-style>
                       </zone>
-                      <zone h='8886' id='5' name='Total Sell Value' show-title='false' w='49429' x='49946' y='10715'>
+                      <zone h='8855' id='5' name='Total Sell Value' show-title='false' w='49306' x='49946' y='10846'>
                         <zone-style>
                           <format attr='border-color' value='#000000' />
                           <format attr='border-style' value='none' />
@@ -844,7 +844,7 @@
                           <format attr='margin' value='4' />
                         </zone-style>
                       </zone>
-                      <zone h='65699' id='6' name='Sector Tree Map' show-title='false' w='41164' x='625' y='33261'>
+                      <zone h='65479' id='6' name='Sector Tree Map' show-title='false' w='41061' x='748' y='33316'>
                         <zone-style>
                           <format attr='border-color' value='#000000' />
                           <format attr='border-style' value='none' />
@@ -852,7 +852,7 @@
                           <format attr='margin' value='4' />
                         </zone-style>
                       </zone>
-                      <zone h='13660' id='15' name='Stock Highlight Table' show-title='false' w='98750' x='625' y='19601'>
+                      <zone h='13615' id='15' name='Stock Highlight Table' show-title='false' w='98504' x='748' y='19701'>
                         <zone-style>
                           <format attr='border-color' value='#191f91' />
                           <format attr='border-style' value='solid' />
@@ -860,7 +860,7 @@
                           <format attr='margin' value='4' />
                         </zone-style>
                       </zone>
-                      <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='65699' id='19' param='https://finance.yahoo.com/chart/CVNA' w='57586' x='41789' y='33261'>
+                      <zone _.fcp.SetMembershipControl.false...type='web' _.fcp.SetMembershipControl.true...type-v2='web' forceUpdate='' h='65479' id='19' param='https://finance.yahoo.com/chart/CVNA' w='57443' x='41809' y='33316'>
                         <zone-style>
                           <format attr='border-color' value='#000000' />
                           <format attr='border-style' value='none' />
@@ -874,8 +874,8 @@
               </zone>
             </zone>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='9675' id='25' param='horz' w='67591' x='13563' y='1040'>
-            <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='9675' id='10' w='67591' x='13563' y='1040'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='9641' id='25' param='horz' w='67423' x='13653' y='1205'>
+            <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='9641' id='10' w='67423' x='13653' y='1205'>
               <formatted-text>
                 <run bold='true' fontcolor='#000000' fontname='Arial Black' fontsize='24'>Insider Trading Data</run>
               </formatted-text>
@@ -888,7 +888,7 @@
               </zone-style>
             </zone>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='4839' id='27' name='Stock Highlight Table' param='[federated.198vauu0sa49ky1akczx80tt4xde].[none:Date:qk]' show-null-ctrls='false' show-reldate-picker='false' values='database' w='18221' x='81154' y='5876'>
+          <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='4822' id='27' name='Stock Highlight Table' param='[federated.198vauu0sa49ky1akczx80tt4xde].[none:Date:qk]' show-null-ctrls='false' show-reldate-picker='false' values='database' w='18176' x='81076' y='6024'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -896,7 +896,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='4836' id='24' mode='checkdropdown' name='Stock Highlight Table' param='[federated.198vauu0sa49ky1akczx80tt4xde].[none:Symbol:nk]' values='database' w='18221' x='81154' y='1040'>
+          <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='4819' id='24' mode='checkdropdown' name='Stock Highlight Table' param='[federated.198vauu0sa49ky1akczx80tt4xde].[none:Symbol:nk]' values='database' w='18176' x='81076' y='1205'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -904,7 +904,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='empty' _.fcp.SetMembershipControl.true...type-v2='empty' fixed-size='252' h='9675' id='26' is-fixed='true' w='12938' x='625' y='1040'>
+          <zone _.fcp.SetMembershipControl.false...type='empty' _.fcp.SetMembershipControl.true...type-v2='empty' fixed-size='252' h='9641' id='26' is-fixed='true' w='12905' x='748' y='1205'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -1016,7 +1016,7 @@
       <simple-id uuid='{A5D01521-80D1-4913-8704-63C08C477627}' />
     </dashboard>
   </dashboards>
-  <windows source-height='30'>
+  <windows pres-mode='true' source-height='30'>
     <window class='worksheet' name='Total Buy Value'>
       <cards>
         <edge name='left'>
@@ -1138,7 +1138,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='15' />
+      <active id='19' />
       <simple-id uuid='{5FDFCF40-22E5-4FF9-A761-AFE9A98D444A}' />
     </window>
   </windows>
